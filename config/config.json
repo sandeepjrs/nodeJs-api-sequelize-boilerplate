@@ -11,7 +11,7 @@
     "username": "masterroot",
     "password": "sandeep123",
     "database": "mnw2",
-    "host": "mnw2.cul8pjoysuph.us-east-2.rds.amazonaws.com:3306",
+    "host": "mnw2.cul8pjoysuph.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
