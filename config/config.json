@@ -8,10 +8,10 @@
     "storage": ":memory:"
   },
   "production": {
-    "username": "root",
+    "username": "masterroot",
     "password": "sandeep123",
-    "database": "mnw",
-    "host": "127.0.0.1",
+    "database": "mnw2",
+    "host": "mnw2.cul8pjoysuph.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
