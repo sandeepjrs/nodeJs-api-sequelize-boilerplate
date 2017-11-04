@@ -76,6 +76,9 @@ router.get('/t', function (req, res) {
 
 
 });
+router.get("/test", function(req,res){
+  res.send({"helo": "345"})
+})
 
 
 module.exports = router;
